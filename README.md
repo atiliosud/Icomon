@@ -1,8 +1,8 @@
 # Icomon
 
-Projeto TESTE ICOMON: Atilio Camargo Moreira
+# Project Test ICOMON: Atilio Camargo Moreira
 
-Users CRUD contains:
+This first version of Users CRUD contains:
 
 # Asp.NET Core 3.1
 # EF Core 
@@ -12,3 +12,6 @@ Users CRUD contains:
 # DI Project
 # REpository Pattern
 # Caching ** 
+
+
+If I had more time I could improve even more, but the most critical and considered core is already ok.

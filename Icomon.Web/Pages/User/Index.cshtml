@@ -1,7 +1,7 @@
 ﻿@page
 @model Icomon.Web.ViewModel.UserViewModel
 @{
-    ViewData["Title"] = string.Format("{0} - {1}", "User", Model.Name);
+    ViewData["Title"] = string.Format("{0} - {1}", "User", Model != null ? Model.Name: "");
 }
 
     <div class="container">
